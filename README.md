@@ -22,3 +22,12 @@ In this immersive data analysis project, I step into the role of a seasoned data
 - Calculate the average time taken for an order to be processed
 - To develop executive sales reports for both the Sales Manager and Sales Representative
 
+
+
+
+## Sales Overview Report
+
+![Sales Report](https://github.com/Omidoben/BikeStoresAnalysis-SQL-PowerBi/blob/master/PowerBiReport/SalesOverview.jpg?raw=true)
+
+
+
